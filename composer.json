@@ -1,0 +1,10 @@
+{
+  "require": {
+    "mustangostang/spyc": "dev-master"
+  },
+  "autoload": {
+    "psr-4": {
+      "SpeciesSim\\": "src/"
+    }
+  }
+}
